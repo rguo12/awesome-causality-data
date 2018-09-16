@@ -1,4 +1,4 @@
-# awesome-causality-data-repository
+# awesome-causality-data-algorithm-repository
 A list of datasets that can be used for learning causality.
 
 *Updates coming soon* 
