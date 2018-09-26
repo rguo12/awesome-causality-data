@@ -10,7 +10,6 @@ Please cite our survey if this data index helps your research.
   author={Guo, Ruocheng and Cheng, Lu and Li, Jundong and Hahn, P. Richard and Liu, Huan},
   
   journal={arXiv preprint arXiv:1809.09337},
-  
   year={2018}
   
 }
