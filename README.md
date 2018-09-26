@@ -38,4 +38,6 @@ Standard datasets for learning causal effects, each instance has the format of (
 
 [CPS Extract](https://economics.mit.edu/faculty/angrist/data1/data/angkru95)
 
+#### Datasets for Regression Discontinuity Design
 
+[Population Threshold RDD Datasets](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGXO5O)
