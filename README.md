@@ -12,7 +12,7 @@ Please cite our survey if this data index helps your research.
 
 *Updates coming soon* 
 
-## Datasets for Causal Inference (Learning Causal Effects)
+## Datasets for Learning Causal Effects (Causal Inference)
 ### With Back-door Criterion
 
 #### Standard Datasets for Causal Inference
@@ -41,3 +41,8 @@ Standard datasets for learning causal effects, each instance has the format of (
 #### Datasets for Regression Discontinuity Design
 
 [Population Threshold RDD Datasets](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGXO5O)
+
+## Datasets for Learning Causal Relationships (Causal Discovery)
+
+#### Distinguishing Cause from Effect
+[Database with cause-effect pairs](http://webdav.tuebingen.mpg.de/cause-effect/)
