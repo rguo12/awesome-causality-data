@@ -26,6 +26,8 @@ Standard datasets for learning causal effects comes with each instance in the fo
 
 [Job Training](http://users.nber.org/~rdehejia/data/nswdata2.html) (Lalonde 1986)
 
+[ACIC Benchmark](https://github.com/vdorie/aciccomp/tree/master/2016)
+
 #### Non-i.i.d. Datasets for Causal Inference
 
 [Amazon](https://drive.google.com/drive/u/1/folders/1Ff_GdfjhrDFbZiRW0z81lGJW-cUrYmo1)
