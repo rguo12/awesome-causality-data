@@ -50,7 +50,7 @@ Standard datasets for learning causal effects, each instance has the format of (
 [Database with cause-effect pairs](http://webdav.tuebingen.mpg.de/cause-effect/)
 
 ## Datasets for Connections to Machine Learning
-#### Datasets with randomized test set for recommendation systems
+### Datasets with randomized test set for recommendation systems
 |Name|Paper|URL|
 |---|---|---|
 |Coat|Schnabel, Tobias, Adith Swaminathan, Ashudeep Singh, Navin Chandak, and Thorsten Joachims. "Recommendations as treatments: Debiasing learning and evaluation." arXiv preprint arXiv:1602.05352 (2016).|[download](http://www.cs.cornell.edu/~schnabts/mnar/index.html)|
