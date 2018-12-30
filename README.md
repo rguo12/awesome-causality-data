@@ -54,3 +54,4 @@ Standard datasets for learning causal effects, each instance has the format of (
 |Name|Paper|URL|
 |---|---|---|
 |Coat|Schnabel, Tobias, Adith Swaminathan, Ashudeep Singh, Navin Chandak, and Thorsten Joachims. "Recommendations as treatments: Debiasing learning and evaluation." arXiv preprint arXiv:1602.05352 (2016).|[download](http://www.cs.cornell.edu/~schnabts/mnar/index.html)|
+|Yahoo! R3|   |[download](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)|
