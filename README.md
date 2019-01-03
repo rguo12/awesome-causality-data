@@ -20,6 +20,8 @@ Standard datasets for learning causal effects comes with each instance in the fo
 
 [IHDP1](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/IHDP)
 
+[How is IHDP1 (setting A) simulated](https://github.com/vdorie/npci/tree/master/examples/ihdp_sim)
+
 [IHDP2](https://math.la.asu.edu/~prhahn/)
 
 [Twins](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/TWINS)
