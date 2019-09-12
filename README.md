@@ -13,9 +13,10 @@ Please cite our survey if this data index helps your research.
 *Updates coming soon* 
 
 ## Datasets for Learning Causal Effects (Causal Inference)
-### With Back-door Criterion
 
-#### Standard Datasets for Causal Inference
+### Causal Effect Estimation with Single Cause
+
+#### Datasets with i.i.d. samples
 Standard datasets for learning causal effects comes with each instance in the format of (**x**,d,y).
 
 [IHDP1](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/IHDP)
@@ -30,11 +31,11 @@ Standard datasets for learning causal effects comes with each instance in the fo
 
 [ACIC Benchmark](https://github.com/vdorie/aciccomp/tree/master/2016)
 
-#### Non-i.i.d. Datasets for Causal Inference
+#### Datasets with non-i.i.d. samples (with interference, spillover effect or auxiliary network information)
 
 [Amazon](https://drive.google.com/drive/u/1/folders/1Ff_GdfjhrDFbZiRW0z81lGJW-cUrYmo1)
 
-### Without Back-door Criterion
+
 #### Datasets with instrumental Variables (IV)
 Standard datasets for learning causal effects, each instance has the format of (i,**x**,d,y).
 
