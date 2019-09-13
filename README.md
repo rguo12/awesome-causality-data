@@ -3,12 +3,14 @@ An index of datasets that can be used for learning causality.
 
 Please cite our survey if this data index helps your research.
 
+'''
 @article{guo2018survey,</br>
   title={A Survey of Learning Causality with Data: Problems and Methods},</br>
   author={Guo, Ruocheng and Cheng, Lu and Li, Jundong and Hahn, P. Richard and Liu, Huan}, </br>
   journal={arXiv preprint arXiv:1809.09337}, </br>
   year={2018}</br>
 }
+'''
 
 *Updates coming soon* 
 
