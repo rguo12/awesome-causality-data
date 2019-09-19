@@ -75,7 +75,7 @@ Standard datasets for learning causal effects, each instance has the format of (
 ### Datasets with randomized test set for recommendation systems
 |Name|Paper|URL|
 |---|---|---|
-|Coat|Schnabel, Tobias, Adith Swaminathan, Ashudeep Singh, Navin Chandak, and Thorsten Joachims. "Recommendations as treatments: Debiasing learning and evaluation." arXiv preprint arXiv:1602.05352 (2016).|[download](http://www.cs.cornell.edu/~schnabts/mnar/index.html)|
-|Yahoo! R3|   |[download](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)|
-|Spotify Music Streaming Sessions|   |[download](https://www.spotify.com/)|
+|Coat|[Schnabel, Tobias, Adith Swaminathan, Ashudeep Singh, Navin Chandak, and Thorsten Joachims. "Recommendations as treatments: Debiasing learning and evaluation." arXiv preprint arXiv:1602.05352 (2016).](http://www.jmlr.org/proceedings/papers/v48/schnabel16.pdf)|[download](http://www.cs.cornell.edu/~schnabts/mnar/index.html)|
+|Yahoo! R3|[Schnabel, Tobias, Adith Swaminathan, Ashudeep Singh, Navin Chandak, and Thorsten Joachims. "Recommendations as treatments: Debiasing learning and evaluation." arXiv preprint arXiv:1602.05352 (2016).](http://www.jmlr.org/proceedings/papers/v48/schnabel16.pdf)|[download](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)|
+|Spotify Music Streaming Sessions|[Brost, Brian, Rishabh Mehrotra, and Tristan Jehan. "The Music Streaming Sessions Dataset." In The World Wide Web Conference, pp. 2594-2600. ACM, 2019.](https://arxiv.org/pdf/1901.09851)|[download](https://www.spotify.com/)|
 
