@@ -29,7 +29,7 @@ Standard datasets for learning causal effects comes with each instance in the fo
 
 [Twins](https://github.com/AMLab-Amsterdam/CEVAE/tree/master/datasets/TWINS)
 
-[Job Training](http://users.nber.org/~rdehejia/data/nswdata2.html) (Lalonde 1986)
+[Job Training](http://users.nber.org/~rdehejia/data/nswdata2.html) ([Lalonde 1986 in the R package qte](https://rdrr.io/cran/qte/man/lalonde.html#heading-0))
 
 [ACIC Benchmark](https://github.com/vdorie/aciccomp/tree/master/2016)
 
